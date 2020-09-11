@@ -1,8 +1,8 @@
-# CPU Coin token
+# CXP Coin token
 
-Smart contracts for the CPUcoin ecosystem token (see cpucoin.io and mediarich.io). 
+Smart contracts for the CXPcoin ecosystem token
 
-Core to CPUcoin is an implementation of a fully-featured vesting token.
+Core to CXPcoin is an implementation of a fully-featured vesting token.
  
 Here is a brief summary of its features and capabilities:
 
@@ -30,16 +30,16 @@ The project requires node.js. I'm using node v10.15.1. The node modules/versions
 
 You'll need a copy of the [openzeppelin-solidity](https://github.com/OpenZeppelin/openzeppelin-solidity.git) repository.
 
-Clone it to a folder called `openzeppelin-solidity` which is a sibling of `CpuCoin`.
+Clone it to a folder called `openzeppelin-solidity` which is a sibling of `CxpCoin`.
 
 ### Installing
 
-After you've pulled the code, open a command prompt in `CpuCoin` and install the required node modules.
+After you've pulled the code, open a command prompt in `CxpCoin` and install the required node modules.
 
 First, install NPM (if you haven't already)
 
 ```
-cd CpuCoin
+cd CxpCoin
 npm install npm -g
 ```
 
@@ -93,14 +93,3 @@ This section is yet to be written.
 
 This section is yet to be written. 
 
-## Authors
-
-* **David Jennings** - *Initial work* - [djenning90](https://github.com/djenning90)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-This section is yet to be written. 
